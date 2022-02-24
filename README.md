@@ -36,7 +36,7 @@ tf-nightly                   2.5.0.dev or later
 
 
 ```bash
-git clone https://github.com/jiro-mk/Mediapipe_3ddraw.git
+git clone https://github.com/jiro-mk/mediapipe-pose.git
 cd mediapipe-pose
 python pose_webcam.py
 
